@@ -35,7 +35,7 @@ I served as Guest Editor of the CCF Transactions on High Performance Computing (
 - **June 2022:** One paper (CoGNN) is accepted to **SC'22**. Congratulations to Qingxiao Sun.
 - **June 2022:** Two papers (NNLQP and DynVec) are accepted to **ICPP'22**. Congratulations to Xin You and Sensetime co-authors.
 - **April 2022:** One paper (TCstencil) is accepted to **ICS'22**. Congratulations to Xiaoyan Liu.
-- **November 2021:** Two papers (StencilMART and PowerSpector) are accepted to **IPDPS'22**. Congratulations to Qingxiao Sun and Xin you.
+- **November 2021:** Two papers (StencilMART and PowerSpector) are accepted to **IPDPS'22**. Congratulations to Qingxiao Sun and Xin You.
 - **October 2021:** Invited to give a talk at High Performance Computer Programming Model and Optimization Symposium of CCF HPCChina on October 23th.
 - **October 2021:** Invited to give a talk at High Performance Environment Maintainance and Optimization Symposium of CCF HPCChina on October 22th.  
 - **September 2021:** One paper is accepted to **TC**. Congratulations to Qingxiao Sun. 
@@ -45,27 +45,26 @@ I served as Guest Editor of the CCF Transactions on High Performance Computing (
 - **February 2021:** Invited to give a keynote speach at the Twelfth International Workshop on Programming Models and Applications for Multicores and Manycores on February 27th.  
 - **October 2020:** Invited to give a talk at Huawei Computing Technique Symposium of CCF CNCC on October 22th. 
 - **September 2020:** Invited to give a talk at High Performance Sparse Computation Architecture, Algorithm and Application Symposium of CCF HPCChina on September 9th. 
-- **June 2020:** Two papers (SpTFS and Zerospy) are accepted to **SC'20**. Congratulations to Xin you and Qingxiao Sun. 
+- **June 2020:** Two papers (SpTFS and Zerospy) are accepted to **SC'20**. Congratulations to Xin You and Qingxiao Sun. 
 
 
 # 📝 Selected Publications
-- [CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs]() (**SC**) 2022.
-- [Input-Aware Sparse Tensor Storage Format Selection for Optimizing MTTKRP]() (**TC**) 2021.
-- [The Deep Learning Compiler: A Comprehensive Survey]() (**TPDS**) 2021.
-- [Distributed Graph Processing System and Processing-in-memory Architecture with Precise Loop-carried Dependency Guarantee]() (**TOCS**) 2021.
+- [Input-Aware Sparse Tensor Storage Format Selection for Optimizing MTTKRP](https://ieeexplore.ieee.org/abstract/document/9540277) (**TC**) 2021.
+- [The Deep Learning Compiler: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9222299) (**TPDS**) 2021.
+- [Distributed Graph Processing System and Processing-in-memory Architecture with Precise Loop-carried Dependency Guarantee](https://dl.acm.org/doi/abs/10.1145/3453681) (**TOCS**) 2021.
 - [SpTFS: Sparse Tensor Format Selection for MTTKRP via Deep Learning](https://ieeexplore.ieee.org/document/9355324) (**SC**) 2020.
 - [ZeroSpy: Exploring Software Inefficiency with Redundant Zeros](https://ieeexplore.ieee.org/document/9355303) (**SC**) 2020.
-- [SympleGraph: Distributed Graph Processing with Precise Loop-Carried Dependency Guarantee]() (**PLDI**) 2020.
-- [Accelerating Sparse Cholesky Factorization on Sunway Manycore Architecture]() (**TPDS**) 2020.
-- [Massively Scaling Seismic Processing on Sunway TaihuLight Supercomputer]() (**TPDS**) 2020.
-- [Temperature-Aware DRAM Cache Management - Relaxing Thermal Constraints in 3-D Systems]() (**TCAD**) 2020.
-- [Redundant Loads: A Software Inefficiency Indicator]() (**ICSE**) 2019.
-- [LWPTool: A Lightweight Profiler to Guide Data Layout Optimization]() (**TPDS**) 2018.
-- [SMGuard: A Flexible and Fine-Grained Resource Management Framework for GPUs]() (**TPDS**) 2018.
-- [PowerChief: Intelligent Power Allocation for Multi-Stage Applications to Improve Responsiveness on Power Constrained CMP]() (**ISCA**) 2017.
-- [Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers]() (**ASPLOS**) 2017.
-- [Baymax: QoS Awareness and Increased Utilization for Non-Preemptive Accelerators in Warehouse Scale Computers]() (**ASPLOS**) 2016.
-- [Bubble-flux: precise online QoS management for increased utilization in warehouse scale computers]() (**ISCA**) 2013.
+- [SympleGraph: Distributed Graph Processing with Precise Loop-Carried Dependency Guarantee](https://dl.acm.org/doi/abs/10.1145/3385412.3385961) (**PLDI**) 2020.
+- [Accelerating Sparse Cholesky Factorization on Sunway Manycore Architecture](https://ieeexplore.ieee.org/abstract/document/8903486) (**TPDS**) 2020.
+- [Massively Scaling Seismic Processing on Sunway TaihuLight Supercomputer](https://ieeexplore.ieee.org/abstract/document/8943329) (**TPDS**) 2020.
+- [Temperature-Aware DRAM Cache Management - Relaxing Thermal Constraints in 3-D Systems](https://ieeexplore.ieee.org/abstract/document/8758125) (**TCAD**) 2020.
+- [Redundant Loads: A Software Inefficiency Indicator](https://ieeexplore.ieee.org/abstract/document/8811970) (**ICSE**) 2019.
+- [LWPTool: A Lightweight Profiler to Guide Data Layout Optimization](https://ieeexplore.ieee.org/abstract/document/8367889) (**TPDS**) 2018.
+- [SMGuard: A Flexible and Fine-Grained Resource Management Framework for GPUs](https://ieeexplore.ieee.org/abstract/document/8388218) (**TPDS**) 2018.
+- [PowerChief: Intelligent Power Allocation for Multi-Stage Applications to Improve Responsiveness on Power Constrained CMP](https://dl.acm.org/doi/abs/10.1145/3079856.3080224) (**ISCA**) 2017.
+- [Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers](https://dl.acm.org/doi/abs/10.1145/3037697.3037700) (**ASPLOS**) 2017.
+- [Baymax: QoS Awareness and Increased Utilization for Non-Preemptive Accelerators in Warehouse Scale Computers](https://dl.acm.org/doi/abs/10.1145/2954679.2872368) (**ASPLOS**) 2016.
+- [Bubble-flux: precise online QoS management for increased utilization in warehouse scale computers](https://dl.acm.org/doi/abs/10.1145/2508148.2485974) (**ISCA**) 2013.
 
 # 🎖 Honors and Awards
 - CCF HPCChina Workshop Distinguished Speaker 2021.
@@ -74,7 +73,7 @@ I served as Guest Editor of the CCF Transactions on High Performance Computing (
 - CCF CNCC Workshop Distinguished Speaker 2020. 
 - CCF HPCChina Workshop Distinguished Speaker 2020.
 - **Best Paper Award**, BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing (Bench), 2020.
-- Beihang University Excellence Teaching Award in 2016
+- Beihang University Excellence Teaching Award in 2016.
 
 # 💬 Teaching
 - Methodology of Computer Science Research
