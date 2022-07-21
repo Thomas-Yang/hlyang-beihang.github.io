@@ -24,32 +24,63 @@ redirect_from:
 *Beihang University*  
 *G823, New Main Building, Beihang University, #37 Xueyuan Road, Beijing, 100191*
 
-I am an Associate Professor (with tenure) in the School of Integrated Circuit at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA). My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with two Best Paper Awards (FCCM 2011 and ICCAD 2017), six Best Paper Award Nominations (PPoPP 2019, DAC 2017, ASPDAC 2016, DAC 2012, FPT 2011, CODES+ISSS 2008), CCF-IEEE CS Young Computer Scientist Award (2020), Beijing Natural Science Fund for Distinguished Young Scholars (2019), and Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, SenseTime, Alibaba, etc. I am currently the Director of PKU-SenseTime Joint Lab of Intelligent Computing.
+I am an Associate Professor in School of Computer Science and Engineering at Beihang University. I received B.S and Ph.D degrees under supervision of [Prof. Depei Qian](http://scse.buaa.edu.cn/info/1078/8362.htm). I was also a Post-doc researcher in Department of Computer Science and Engineering at University of Michigan. My research interests include high performance computing, performance analysis and optimization, deep learning system and compilation, parallel and distributed computing. My recent research investigates a holistic approach of across-stack optimization for high performance, high scalability and high portability, with special interests in large scale elastic training system, deep learning compilation and auto-tuning techniques, sparse tensor optimization, exascale performance analysis tool and high performance linear algebra for emerging processors. I have authored over 80 scientific publications in the leading international journals and conferences. I received the Excellence Teaching Award from Beihang University in 2016. My research has been funded by NSFC, SenseTime, Alibaba, Huawei, CETC.
 
-I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS), ACM Transactions on Reconfigurable Technology and Systems (TRETS), and IEEE Embedded Systems Letters (ESL). I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the subcommittee chair of Asia South Pacific Design Automation Conference (ASPDAC) 2014. I also serve in the program committees in the premier conferences including DAC, ICCAD, DATE, ASPDAC, FPGA, FCCM, HPCA, MICRO, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC. 
+I served as Guest Editor of the CCF Transactions on High Performance Computing (CCF THPC). I was the architecture area program co-chair of 23rd IEEE International Conference on Cluster Computing (CLUSTER), 2021. I currently serve as reviewers in the premier journals including TPDS、TC、PARCO、JPDC、FGCS、FCS. I am also the supervisor of Beihang Supercomputing Team, which has won the Silver Prize of ASC'17, Bronze Prize of ISC'17, Highest Linpack Award of ASC'19, Application Innovation Award of ASC'20-21, First Class Award of ASC'14, ASC'15, ASC'16, ASC'18, ASC'19, ASC'20-21. 
 
 
 # 🔥 News
-- **May 2022:** Invited to give a talk on **“Agile Hardware Specialization for Spatial Architecture” at China Semiconductor Technology International Conference (CSTIC)** on June 17. 
-- **April 2022:**  Invited to serve as the program co-chair (with Hiroki Nakahara at Tokyo Institute of Technology) for [International Conference on Field Programmable Technology (FPT) 2022](https://fpt22.hkust.edu.hk/).
-- **March 2022:** One paper (AMOS) is accepted to ISCA’22. Congratulations to Size and other co-authors.
-- **Best Paper Award Nomination**, Design Automation Conference (DAC), June 2012. 
-- **Feb 2022:** Invited to give a keynote talk at [31st International Workshop on Logic & Synthesis (IWLS’22)](https://www.iwls.org/iwls2022/). 
-- **Feb 2022:** One paper (EMS) is accepted to DAC’22. Congratulations to Liancheng.
+- **July 2022:** Invited to give a talk at HPC Symposium of Open Scientific Computing Consortium on July 9th. 
+- **July 2022:** One paper is accepted to **PARCO**. Congratulations to Qingxiao Sun.
+- **June 2022:** One paper (CoGNN) is accepted to **SC'22**. Congratulations to Qingxiao Sun.
+- **June 2022:** Two papers (NNLQP and DynVec) are accepted to **ICPP'22**. Congratulations to Xin You and Sensetime co-authors.
+- **April 2022:** One paper (TCstencil) is accepted to **ICS'22**. Congratulations to Xiaoyan Liu.
+- **November 2021:** Two papers (StencilMART and PowerSpector) are accepted to **IPDPS'22**. Congratulations to Qingxiao Sun and Xin you.
+- **October 2021:** Invited to give a talk at High Performance Computer Programming Model and Optimization Symposium of CCF HPCChina on October 23th.
+- **October 2021:** Invited to give a talk at High Performance Environment Maintainance and Optimization Symposium of CCF HPCChina on October 22th.  
+- **September 2021:** One paper is accepted to **TC**. Congratulations to Qingxiao Sun. 
+- **July 2021:** One paper (csTuner) is accepted to **CLUSTER'21**. Congratulations to Qingxiao Sun. 
+- **June 2021:** One paper (MSC) is accepted to **ICPP'21**. Congratulations to Mingzhen Li. 
+- **April 2021:** One paper (cuTC) is accepted to **ICS'21**. Congratulations to Ming Dun. 
+- **February 2021:** Invited to give a keynote speach at the Twelfth International Workshop on Programming Models and Applications for Multicores and Manycores on February 27th.  
+- **October 2020:** Invited to give a talk at Huawei Computing Technique Symposium of CCF CNCC on October 22th. 
+- **September 2020:** Invited to give a talk at High Performance Sparse Computation Architecture, Algorithm and Application Symposium of CCF HPCChina on September 9th. 
+- **June 2020:** Two papers (SpTFS and Zerospy) are accepted to **SC'20**. Congratulations to Xin you and Qingxiao Sun. 
 
-# 📝 Selected Publications 
 
-- [csTuner: Scalable Auto-tuning Framework for Complex Stencil Computation on GPUs](https://ieeexplore.ieee.org/document/9556044) (**CLUSTER**) 2021.
+# 📝 Selected Publications
+- [CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs]() (**SC**) 2022.
+- [Input-Aware Sparse Tensor Storage Format Selection for Optimizing MTTKRP]() (**TC**) 2021.
+- [The Deep Learning Compiler: A Comprehensive Survey]() (**TPDS**) 2021.
+- [Distributed Graph Processing System and Processing-in-memory Architecture with Precise Loop-carried Dependency Guarantee]() (**TOCS**) 2021.
+- [SpTFS: Sparse Tensor Format Selection for MTTKRP via Deep Learning](https://ieeexplore.ieee.org/document/9355324) (**SC**) 2020.
+- [ZeroSpy: Exploring Software Inefficiency with Redundant Zeros](https://ieeexplore.ieee.org/document/9355303) (**SC**) 2020.
+- [SympleGraph: Distributed Graph Processing with Precise Loop-Carried Dependency Guarantee]() (**PLDI**) 2020.
+- [Accelerating Sparse Cholesky Factorization on Sunway Manycore Architecture]() (**TPDS**) 2020.
+- [Massively Scaling Seismic Processing on Sunway TaihuLight Supercomputer]() (**TPDS**) 2020.
+- [Temperature-Aware DRAM Cache Management - Relaxing Thermal Constraints in 3-D Systems]() (**TCAD**) 2020.
+- [Redundant Loads: A Software Inefficiency Indicator]() (**ICSE**) 2019.
+- [LWPTool: A Lightweight Profiler to Guide Data Layout Optimization]() (**TPDS**) 2018.
+- [SMGuard: A Flexible and Fine-Grained Resource Management Framework for GPUs]() (**TPDS**) 2018.
+- [PowerChief: Intelligent Power Allocation for Multi-Stage Applications to Improve Responsiveness on Power Constrained CMP]() (**ISCA**) 2017.
+- [Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers]() (**ASPLOS**) 2017.
+- [Baymax: QoS Awareness and Increased Utilization for Non-Preemptive Accelerators in Warehouse Scale Computers]() (**ASPLOS**) 2016.
+- [Bubble-flux: precise online QoS management for increased utilization in warehouse scale computers]() (**ISCA**) 2013.
 
 # 🎖 Honors and Awards
-- CCF Distinguished Speaker 2022 
-- CCF-IEEE CS Young Computer Scientist Award 2020
-- **Best Paper Award Nomination**, ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2019. (4 nominations out of 152 submissions). 
+- CCF HPCChina Workshop Distinguished Speaker 2021.
+- Beihang Young Scholar Award 2021.
+- **Best Paper Award Nomination**, IEEE International Conference on Cluster Computing (CLUSTER), 2021. (2 nominations out of 168 submissions).  
+- CCF CNCC Workshop Distinguished Speaker 2020. 
+- CCF HPCChina Workshop Distinguished Speaker 2020.
+- **Best Paper Award**, BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing (Bench), 2020.
+- Beihang University Excellence Teaching Award in 2016
 
 # 💬 Teaching
-- High-level Chip Design (Spring’22)
-- Compiler Techniques (Spring’16, ’17, ’18, ‘19, ’20, ’21, ’22)
-- C++ Programming and Problem Solving (Spring’13, ’14, ’15, ’16, ’17, ’18, ’19, ’20, ’21)
+- Methodology of Computer Science Research
+- Cutting-edge Technologies of Open-source Operating System (Collaborated with Huawei)
+- Parallel Programming (International Student)
+- Computer Achitecture (International Student)
 
 <!--
 # 📖 Educations
