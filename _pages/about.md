@@ -22,7 +22,6 @@ redirect_from:
 *School of Computer Science and Engineering*  
 *Sino-German Joint Software Institue (JSI)*  
 *Beihang University*  
-*G823, New Main Building, Beihang University, #37 Xueyuan Road, Beijing, 100191*
 
 I am an Associate Professor in School of Computer Science and Engineering at Beihang University. I received B.S and Ph.D degrees under supervision of [Prof. Depei Qian](http://scse.buaa.edu.cn/info/1078/8362.htm). I was also a Post-doc researcher in Department of Computer Science and Engineering at University of Michigan. My research interests include high performance computing, performance analysis and optimization, deep learning system and compilation, parallel and distributed computing. My recent research investigates a holistic approach of across-stack optimization for high performance, high scalability and high portability, with special interests in large scale elastic training system, deep learning compilation and auto-tuning techniques, sparse tensor optimization, exascale performance analysis tool and high performance linear algebra for emerging processors. I have authored over 80 scientific publications in the leading international journals and conferences. I received the Excellence Teaching Award from Beihang University in 2016. My research has been funded by NSFC, SenseTime, Alibaba, Huawei, CETC.
 
