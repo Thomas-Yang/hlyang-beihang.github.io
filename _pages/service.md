@@ -11,44 +11,34 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-## Editor Board 
-- Associate Editor, ACM Transactions in Embedded Computing Systems (TECS), 2017- 
-- Associate Editor, ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2020-
-- Associate Editor, Embedded System Letters (ESL), 2019-2022
-- Guest Editor, Integration, the VLSI Journal 2018-
-- Guest Editor-in-Chief, Journal of Signal Processing Systems (JSPS), Special issue on Application-specific System and Design. 
-- Associate Editor, CCF Transactions on High Performance Computing (CCF THPC)
-- Associate Editor, Frontiers of Computer Science (FCS)
-- Editor for ACM TECS Special issue on AI Acceleration on FPGAs.
+## Student Competition
+- **ASC Student Supercomputer Challenge.** Silver Prize, ASC'17
+- **ASC Student Supercomputer Challenge.** Highest Linpack Award, ASC'19
+- **ASC Student Supercomputer Challenge.** Application Innovation Award, ASC'16, ASC'20-21
+- **ASC Student Supercomputer Challenge.** First Class Award, ASC'14, ASC'15, ASC'16, ASC'18, ASC'19, ASC'20-21
+- **ISC Student Cluster Competition.** Bronze Prize, ISC'17
+- **Sunway CUP China Parallel Application Challenge on Domestic CPU.** Third Class Award, CPC'21
+- **The Intel CUP Parallel Application Challenge-PAC.** Third Class Award, PAC'20, PAC'21
+- **Linear Solver Algorithm and Performance Optimization Competition.** Second Class Award, Solver'22
 
-## Conference Organizing Committee Member
-- **Program Chair.** 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP), 2019.
-- **Program Chair.** The International Conference on Field Programmable Technology (FPT), 2022.
-- Workshop /tutorial chair. The 30th Field-Programmable Custom Computing Machines (FCCM) 2022.
-- Exhibition co-chair. the 25th Asia South Pacific Design Automation Conference (ASP-DAC) 2020.
-- Publication Chair. 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2017.
-- Special Session Organizer and Chair. “High-level Synthesis and Parallel Programming Models for FPGAs”, the 18th Asia South Pacific Design Automation Conference (ASP-DAC) 2014.
-- Subcommittee Chair.  System Level Synthesis and Optimization, the 19th Asia South Pacific Design Automation Conference (ASP-DAC) 2014.
-- Best paper selection committee of Asia South Pacific Design Automation Conference (ASP-DAC) 2022.
+## Editor Board
+- Guest Editor of the CCF Transactions on High Performance Computing (CCF THPC)
 
 ## Conference Program Committee Member
-- IEEE/ACM International Symposium on Microarchitecture (MICRO), 2020, 2021, 2022 (ERC)
-- Design Automation Conference (DAC), 2020,2021,2022
-- International Symposium on Field-Programmable Gate Arrays (FPGA), 2019, 2020, 2021, 2022
+- **Architecture Area Program Co-Chair.** 23rd IEEE International Conference on Cluster Computing (CLUSTER), 2021.
+- IEEE International Conference on High Performance Computing and Communications (HPCC), 2020, 2021, 2022
+- Annual IFIP International Conference on Network and Parallel Computing (NPC), 2019, 2022
+- International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM), 2017, 2018, 2019, 2020, 2021
 - International Symposium on High-Performance Computer Architecture (HPCA), 2018, 2020
-- International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020 (ERC)
-- ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2020 (ERC)
-- ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES) 2020
-- International Symposium on Computer Architecture (ISCA), 2018 (ERC)
-- International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2020, 2021, 2022
-- International Conference on Compiler Construction (CC), 2018, 2021
-- International Conference on Supercomputing (ICS), 2018, 2019, 2021
-- International Conference on High Performance Computing, Data, and Analytics (HiPC) 2017
-- International Conference on Parallel Architectures and Compilation Techniques (PACT) 2015, 2016
-- International Conference on Computer Aided Design (ICCAD) 2016, 2017, 2018
-- International Symposium on Code Generation and Optimization (CGO) 2017
-- IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP), 2020
-- Asia South Pacific Design Automation Conference (ASP-DAC) 2012, 2013, 2014, 2016, 2017, 2018, 2020, 2021
-- Design Automation and Test in Europe (DATE) 2013, 2014, 2015, 2016, 2017
-- International Conference on Compilers Architecture and Synthesis for Embedded Systems (CASES) 2013, 2014, 2015, 2016
-- IEEE International Conference on Computer Design (ICCD) 2016
+
+## Journal Reviewer
+- IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- IEEE Transactions on Computers (TC)
+- Parallel Computing (PARCO)
+- Journal of Parallel and Distributed Computing (JPDC)
+- Future Generation Computer Systems (FGCS)
+- Frontiers of Computer Science (FCS)
+- Concurrency and Computation: Practice and Experience (CPE)
+- Journal of Computer Science and Technology (JCST)
+- The Journal of Supercomputing (SUPE)
+- IEEE Transactions on Cloud Computing (TCC)

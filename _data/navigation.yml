@@ -18,8 +18,8 @@ main:
   - title: "People"
     url: "/people/"
 
-#  - title: "Service"
-#    url: "/service/"
+  - title: "Service"
+    url: "/service/"
 
   - title: "Software Release"
     url: https://github.com/buaa-hipo
