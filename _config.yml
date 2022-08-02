@@ -9,7 +9,6 @@
 title                    : "Hailong Yang"
 description              : "Associate Professor"
 repository               : "Thomas-Yang/hlyang-beihang.github.io"
-google_scholar_stats_use_cdn : true
 
 
 # google analytics
@@ -67,7 +66,6 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
